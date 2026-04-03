@@ -39,8 +39,9 @@ This project is built as a single file:
 
 ## Contact
 Email: mithanyamurugesan@gmail.com  
-GitHub: github.com/your-username  
-LinkedIn: mithanya-murugesan  
+GitHub: https://github.com/Mithanya
+LinkedIn / Mithanya Murugesan
+
 
 ## Note
 This project is created for internship submission and learning purposes. It demonstrates fundamental frontend development skills.
