@@ -40,7 +40,8 @@ This project is built as a single file:
 ## Contact
 Email: mithanyamurugesan@gmail.com  
 GitHub: https://github.com/Mithanya
-LinkedIn / Mithanya Murugesan
+LinkedIn / www.linkedin.com/in/mithanya-murugesan
+
 
 
 ## Note
