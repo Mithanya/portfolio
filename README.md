@@ -1,4 +1,4 @@
-<!--
+
 # Portfolio Website – Mithanya Murugesan
 
 ## Overview
@@ -47,4 +47,3 @@ This project is created for internship submission and learning purposes. It demo
 
 ## License
 This project is for educational and portfolio purposes only.
--->
